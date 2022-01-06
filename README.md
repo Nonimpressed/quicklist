@@ -1,5 +1,7 @@
 # shoppinglist
 
+Demo: https://swanclops.com/quicklist/
+
 ## Project setup
 ```
 npm install
